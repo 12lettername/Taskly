@@ -1,0 +1,7 @@
+.todo_list {
+  border: 5px solid;
+  margin-top: 20px !important;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
